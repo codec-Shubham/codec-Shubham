@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codec-shubham" alt="codec-shubham" /></a> </p>
 
-- 🔭 I’m currently working on **New Technologies**
+- 🔭 I’m currently working as**DevOps Engineer**
 
-- 🌱 I’m currently learning **Spring, Hibernate**
+- 🌱 I’m currently learning **DevOps Tools**
 
-- 💬 Ask me about **Android, Flutter, Java,Python**
+- 💬 Ask me about **Android, Flutter, Java,Python,Docker,k8s,Helm,Jenekins,AWS**
 
 - 📫 How to reach me **shubhamkashab@gmail.com**
 
