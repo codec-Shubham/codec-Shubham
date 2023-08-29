@@ -14,11 +14,11 @@
 
 - 🌱 I’m currently learning **DevOps Tools**
 
-- 💬 Ask me about **Android, Flutter, Java,Python,Docker,k8s,Helm,Jenekins,AWS**
+- 💬 Ask me about **Android, Flutter, Java,Python,Docker,k8s,Helm,Jenkins,AWS**
 
 - 📫 How to reach me **shubhamkashab@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Funny and great learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
