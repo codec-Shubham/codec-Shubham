@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codec-shubham" alt="codec-shubham" /></a> </p>
 
-- 🔭 I’m currently working as**DevOps Engineer**
+- 🔭 I’m currently working as **DevOps Engineer**
 
 - 🌱 I’m currently learning **DevOps Tools**
 
